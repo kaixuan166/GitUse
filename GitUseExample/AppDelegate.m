@@ -13,6 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     NSLog(@"application did finish launching master");
+    NSLog(@"application did finish launching new branch");
     // Override point for customization after application launch.
     return YES;
 }
